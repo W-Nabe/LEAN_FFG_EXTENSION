@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "description": "拡張機能の名前",
+    "message": "LEAN FFG GUIDE"
+  },
+  "extDescription": {
+    "description": "拡張機能の説明",
+    "message": "FFG公式サイトに使用ガイドを追加します。"
+  }
+}
